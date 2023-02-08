@@ -29,7 +29,7 @@ function Navbar() {
       <nav className="navbar">
         <div className="navbar-container">
           <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-            TRVL
+            The Divine Church
             <i class="fab fa-typo3" />
           </Link>
 

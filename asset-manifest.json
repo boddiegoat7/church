@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa054d8f.chunk.css",
-    "main.js": "/static/js/main.ea23778e.chunk.js",
-    "main.js.map": "/static/js/main.ea23778e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.67d84520.js",
-    "runtime-main.js.map": "/static/js/runtime-main.67d84520.js.map",
-    "static/js/2.223f1624.chunk.js": "/static/js/2.223f1624.chunk.js",
-    "static/js/2.223f1624.chunk.js.map": "/static/js/2.223f1624.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.731b93f3bdad7c23a53b02b87ff499c8.js": "/precache-manifest.731b93f3bdad7c23a53b02b87ff499c8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.aa054d8f.chunk.css.map": "/static/css/main.aa054d8f.chunk.css.map",
-    "static/js/2.223f1624.chunk.js.LICENSE.txt": "/static/js/2.223f1624.chunk.js.LICENSE.txt"
+    "main.css": "/church/static/css/main.aa054d8f.chunk.css",
+    "main.js": "/church/static/js/main.ea23778e.chunk.js",
+    "main.js.map": "/church/static/js/main.ea23778e.chunk.js.map",
+    "runtime-main.js": "/church/static/js/runtime-main.46715557.js",
+    "runtime-main.js.map": "/church/static/js/runtime-main.46715557.js.map",
+    "static/js/2.223f1624.chunk.js": "/church/static/js/2.223f1624.chunk.js",
+    "static/js/2.223f1624.chunk.js.map": "/church/static/js/2.223f1624.chunk.js.map",
+    "index.html": "/church/index.html",
+    "precache-manifest.5983e06d998fda25cf747fda0b0bb891.js": "/church/precache-manifest.5983e06d998fda25cf747fda0b0bb891.js",
+    "service-worker.js": "/church/service-worker.js",
+    "static/css/main.aa054d8f.chunk.css.map": "/church/static/css/main.aa054d8f.chunk.css.map",
+    "static/js/2.223f1624.chunk.js.LICENSE.txt": "/church/static/js/2.223f1624.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.67d84520.js",
+    "static/js/runtime-main.46715557.js",
     "static/js/2.223f1624.chunk.js",
     "static/css/main.aa054d8f.chunk.css",
     "static/js/main.ea23778e.chunk.js"

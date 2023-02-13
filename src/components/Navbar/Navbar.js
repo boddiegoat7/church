@@ -29,7 +29,7 @@ function Navbar() {
       <nav className="navbar">
         <div className="navbar-container">
           <Link to="/church" className="navbar-logo" onClick={closeMobileMenu}>
-            TRVL
+            The Divine Church
             <i class="fab fa-typo3" />
           </Link>
 
@@ -39,7 +39,7 @@ function Navbar() {
 
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">
-              <Link to="/" className="nav-links" onClick={closeMobileMenu}>
+              <Link to="/church" className="nav-links" onClick={closeMobileMenu}>
                 Home
               </Link>
             </li>

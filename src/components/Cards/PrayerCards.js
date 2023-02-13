@@ -2,6 +2,7 @@ import React from "react";
 import "./HomeCards.css";
 import CardItem from "./CardItem";
 
+
 function Cards() {
   return (
     <div className="cards">

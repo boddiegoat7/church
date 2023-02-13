@@ -28,8 +28,8 @@ function Navbar() {
     <>
       <nav className="navbar">
         <div className="navbar-container">
-          <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-            The Divine Church
+          <Link to="/church" className="navbar-logo" onClick={closeMobileMenu}>
+            TRVL
             <i class="fab fa-typo3" />
           </Link>
 

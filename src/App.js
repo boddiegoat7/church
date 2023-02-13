@@ -15,7 +15,7 @@ function App() {
       <Router>
         <Navbar />
         
-          <Route path="/" exact component={Home} />
+          <Route path="/church" exact component={Home} />
           <Route path="/events" component={Events} />
           <Route path="/prayer" component={Prayer} />
           <Route path="/minestry" component={Minestry} />

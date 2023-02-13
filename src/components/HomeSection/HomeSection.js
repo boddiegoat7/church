@@ -2,11 +2,12 @@ import React from "react";
 import "../../App.css";
 import { Button } from "../Button/Button";
 import "../HomeSection/HomeSection.css";
+import coverVideo from "../../assets/videos/main-1.mp4"
 
 function HeroSection() {
   return (
     <div className="hero-container">
-      <video src="/videos/video-1.mp4" autoPlay loop muted />
+      <video src={coverVideo} autoPlay loop muted  alt="cover" />
       <h1>THE DIVINE CHURCH</h1>
       <p>Building Strong Families in Christ</p>
       <div className="hero-btns">

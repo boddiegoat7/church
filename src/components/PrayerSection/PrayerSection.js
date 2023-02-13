@@ -5,7 +5,7 @@ import "./PrayerSection.css";
 function PrayerSection() {
   return (
     <div className="prayer-container">
-      <img src="images/img-1.jpg" />
+      <img src="images/img-1.jpg"  alt="cover" />
       <h1>CORPORATE PRAYER & FASTING GUIDE</h1>
       <p>
         I beseech you therefore; brethren, by the mercies of God, that you

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/church/static/css/main.e067cac1.chunk.css",
-    "main.js": "/church/static/js/main.d4366728.chunk.js",
-    "main.js.map": "/church/static/js/main.d4366728.chunk.js.map",
+    "main.js": "/church/static/js/main.afeb415d.chunk.js",
+    "main.js.map": "/church/static/js/main.afeb415d.chunk.js.map",
     "runtime-main.js": "/church/static/js/runtime-main.46715557.js",
     "runtime-main.js.map": "/church/static/js/runtime-main.46715557.js.map",
     "static/js/2.bb8633ff.chunk.js": "/church/static/js/2.bb8633ff.chunk.js",
     "static/js/2.bb8633ff.chunk.js.map": "/church/static/js/2.bb8633ff.chunk.js.map",
     "index.html": "/church/index.html",
-    "precache-manifest.c0d32b58513a40e45503a225d9c3ec60.js": "/church/precache-manifest.c0d32b58513a40e45503a225d9c3ec60.js",
+    "precache-manifest.598fe032a3db98b745c390b7e57cc729.js": "/church/precache-manifest.598fe032a3db98b745c390b7e57cc729.js",
     "service-worker.js": "/church/service-worker.js",
     "static/css/main.e067cac1.chunk.css.map": "/church/static/css/main.e067cac1.chunk.css.map",
     "static/js/2.bb8633ff.chunk.js.LICENSE.txt": "/church/static/js/2.bb8633ff.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.46715557.js",
     "static/js/2.bb8633ff.chunk.js",
     "static/css/main.e067cac1.chunk.css",
-    "static/js/main.d4366728.chunk.js"
+    "static/js/main.afeb415d.chunk.js"
   ]
 }
